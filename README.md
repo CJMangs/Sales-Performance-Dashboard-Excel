@@ -52,7 +52,8 @@ The dataset contains transactional sales data including:
 ## Dashboard Preview
 
 ![Dashboard](Dashboard (Sales).png)
-
+![Dataset](Dataset (Sales).png)
+![Dataset](Dataset Sales.png)
 ## Key Insights
 
 * Smartphone Z10 is the most profitable product
