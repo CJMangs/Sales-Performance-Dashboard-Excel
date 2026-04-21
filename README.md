@@ -51,7 +51,7 @@ The dataset contains transactional sales data including:
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard Sales.png)
+![Dashboard](Dashboard (Sales).png)
 
 ## Key Insights
 
